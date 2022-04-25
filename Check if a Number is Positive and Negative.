@@ -1,0 +1,13 @@
+#For Instance,
+#Input : num = 20
+#output : The number is Positive.
+
+num = 15
+if num ==0:
+  print('Zero')
+elif num>0:
+  print('Positive')
+else:
+  print('Negative')
+  
+ 
